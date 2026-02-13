@@ -1,0 +1,11 @@
+gradio==4.44.1
+sentence-transformers
+faiss-cpu
+numpy
+PyMuPDF
+requests
+groq
+faster-whisper
+torch
+scipy
+transformers
